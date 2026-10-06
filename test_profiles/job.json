@@ -1,0 +1,36 @@
+{
+  "job_title": "Data Scientist",
+  "role_summary": "Develop machine learning models and analyze large datasets.",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Statistical Modeling",
+    "Pandas",
+    "Scikit-learn"
+  ],
+  "preferred_skills": [
+    "PyTorch",
+    "Docker",
+    "Cloud Computing"
+  ],
+  "minimum_experience_years": 2.0,
+  "maximum_experience_years": 5.0,
+  "education": [
+    "Bachelor's degree in Computer Science",
+    "Bachelor's degree in Data Science",
+    "Bachelor's degree in Statistics",
+    "Bachelor's degree in a related field"
+  ],
+  "required_certifications": [],
+  "preferred_certifications": [],
+  "technologies": [],
+  "responsibilities": [
+    "Clean and analyze structured and unstructured data.",
+    "Develop and evaluate machine learning models.",
+    "Collaborate with engineering and business teams.",
+    "Deploy predictive models into production."
+  ],
+  "employment_type": "Full-time",
+  "job_location": "Chennai, India"
+}

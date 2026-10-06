@@ -1,0 +1,135 @@
+{
+  "name":  "Sammangi Gopi Chand",
+  "email": "sammangigopi009@gmail.com",
+  "phone": "+91 8919484588",
+  "location": "Rajahmundry, Andhra Pradesh, India",
+  "professional_summary": null,
+  "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "SQL",
+    "HTML",
+    "CSS",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "keras",
+    "Pandas",
+    "NumPy",
+    "OpenCV",
+    "Matplotlib",
+    "Seaborn",
+    "FastAPI",
+    "Git",
+    "GitHub",
+    "Docker",
+    "Power BI",
+    "Excel",
+    "Databricks"
+  ],
+  "education": [
+    {
+        "degree": "M.Tech",
+        "field": "Artificial Intelligence and Machine Learning",
+        "institution": "Vellore Institute of Technology",
+        "start_date": "2025",
+        "end_date": "Present"
+        },
+    {
+      "degree": null,
+      "field": null,
+      "institution": "Godavari Institute of Engineering and Technology",
+      "start_date": "2020",
+      "end_date": "2023"
+    },
+    {
+      "degree": null,
+      "field": null,
+      "institution": "Godavari Institute of Engineering and Technology",
+      "start_date": "2017",
+      "end_date": "2020"
+    },
+    {
+      "degree": null,
+      "field": null,
+      "institution": "Srujana (E.M) school",
+      "start_date": "2016",
+      "end_date": "2017"
+    }
+  ],
+
+  
+  "experience": [
+    {
+        "job_title": "Software Engineer (Associate System Engineer)",
+        "company": "IBM",
+        "start_date": "2024",
+        "end_date": "2025",
+        "responsibilities": [],
+        "technologies": []
+        }
+  ],
+  "projects": [
+    {
+      "name": "Genome-Based Antimicrobial Resistance Classification using Nucleotide Transformer LLM",
+      "description": null,
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "Hugging Face Transformers",
+        "Nucleotide Transformer",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Biopython"
+      ]
+    },
+    {
+      "name": "Conversational AI Chatbot with Retrieval-Augmented Generation",
+      "description": null,
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "FAISS",
+        "Sentence Transformers",
+        "Mistral LLM"
+      ]
+    },
+    {
+      "name": "Hybrid Recommendation and Forecasting System",
+      "description": null,
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Apriori",
+        "Random Forest",
+        "XGBoost"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Programming in Java",
+      "issuer": "IIT Kharagpur",
+      "score": 82
+    },
+    {
+      "name": "Python Certification",
+      "issuer": "IIT Bombay",
+      "score": null
+    },
+    {
+      "name": "Competitive Programming",
+      "issuer": "GeeksforGeeks",
+      "score": null
+    },
+    {
+      "name": "Android Development Program",
+      "issuer": "Skill Vertex",
+      "score": null
+    }
+  ]
+}

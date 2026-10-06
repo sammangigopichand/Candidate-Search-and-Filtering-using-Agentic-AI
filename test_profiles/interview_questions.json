@@ -1,0 +1,359 @@
+{
+  "target_job": "Data Scientist",
+  "experience_level": "Undetermined",
+  "questions": [
+    {
+      "question_id": 1,
+      "category": "technical",
+      "difficulty": "intermediate",
+      "question": "Explain the difference between supervised and unsupervised learning.",
+      "expected_concepts": [
+        "Labeled data",
+        "Classification",
+        "Regression",
+        "Unlabeled data",
+        "Clustering"
+      ],
+      "evaluation_criteria": [
+        {
+          "criterion_id": "Q1_C1",
+          "criterion": "Correctly explains supervised learning",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q1_C2",
+          "criterion": "Explains the role of labeled data",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q1_C3",
+          "criterion": "Provides an appropriate practical example",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q1_C4",
+          "criterion": "Mentions unsupervised learning as a complementary approach",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        }
+      ]
+    },
+    {
+      "question_id": 2,
+      "category": "technical",
+      "difficulty": "advanced",
+      "question": "Implement a simple neural network using PyTorch to classify handwritten digits.",
+      "expected_concepts": [
+        "PyTorch",
+        "Neural Networks",
+        "Convolutional Layers",
+        "Activation Functions",
+        "Loss Functions"
+      ],
+      "evaluation_criteria": [
+        {
+          "criterion_id": "Q2_C1",
+          "criterion": "Correctly implements a simple neural network",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q2_C2",
+          "criterion": "Uses PyTorch correctly",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q2_C3",
+          "criterion": "Mentions the importance of regularization",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q2_C4",
+          "criterion": "Provides a clear explanation of the loss function",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        }
+      ]
+    },
+    {
+      "question_id": 3,
+      "category": "technical",
+      "difficulty": "foundational",
+      "question": "What is the purpose of the Pandas library in Python?",
+      "expected_concepts": [
+        "Pandas",
+        "Data Structures",
+        "Data Manipulation",
+        "Data Analysis"
+      ],
+      "evaluation_criteria": [
+        {
+          "criterion_id": "Q3_C1",
+          "criterion": "Correctly explains the purpose of Pandas",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q3_C2",
+          "criterion": "Mentions data manipulation and analysis",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q3_C3",
+          "criterion": "Provides a clear example of Pandas usage",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q3_C4",
+          "criterion": "Avoids incorrect assumptions about Pandas capabilities",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        }
+      ]
+    },
+    {
+      "question_id": 4,
+      "category": "project",
+      "difficulty": "intermediate",
+      "question": "Describe the architecture of the Genome-Based Antimicrobial Resistance Classification using Nucleotide Transformer LLM project.",
+      "expected_concepts": [
+        "Nucleotide Transformer",
+        "Hugging Face Transformers",
+        "Scikit-learn",
+        "Pandas",
+        "Biopython"
+      ],
+      "evaluation_criteria": [
+        {
+          "criterion_id": "Q4_C1",
+          "criterion": "Correctly explains the project architecture",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q4_C2",
+          "criterion": "Mentions the use of Nucleotide Transformer",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q4_C3",
+          "criterion": "Provides a clear overview of the project's technical components",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q4_C4",
+          "criterion": "Avoids incorrect assumptions about the project's scope",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        }
+      ]
+    },
+    {
+      "question_id": 5,
+      "category": "project",
+      "difficulty": "advanced",
+      "question": "How did you approach the challenge of deploying a predictive model into production in the Conversational AI Chatbot project?",
+      "expected_concepts": [
+        "FastAPI",
+        "Docker",
+        "Cloud Computing",
+        "Model Deployment",
+        "Monitoring and Maintenance"
+      ],
+      "evaluation_criteria": [
+        {
+          "criterion_id": "Q5_C1",
+          "criterion": "Correctly explains the deployment approach",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q5_C2",
+          "criterion": "Mentions the use of FastAPI and Docker",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q5_C3",
+          "criterion": "Provides a clear overview of the deployment process",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q5_C4",
+          "criterion": "Avoids incorrect assumptions about the deployment challenges",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        }
+      ]
+    },
+    {
+      "question_id": 6,
+      "category": "behavioral",
+      "difficulty": "foundational",
+      "question": "Tell me about a time when you had to collaborate with a team to solve a complex problem.",
+      "expected_concepts": [
+        "Teamwork",
+        "Communication",
+        "Problem-Solving",
+        "Conflict Resolution"
+      ],
+      "evaluation_criteria": [
+        {
+          "criterion_id": "Q6_C1",
+          "criterion": "Mentions a specific team collaboration experience",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q6_C2",
+          "criterion": "Explains the role they played in the team",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q6_C3",
+          "criterion": "Provides a clear example of how they contributed to the solution",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        },
+        {
+          "criterion_id": "Q6_C4",
+          "criterion": "Avoids generic or anecdotal responses",
+          "options": [
+            "Yes",
+            "Partially",
+            "No",
+            "Not Assessed"
+          ],
+          "selected_option": null
+        }
+      ]
+    }
+  ],
+  "note": "Questions, expected concepts, and evaluation criteria were generated by an LLM. Review them for technical accuracy and job relevance before using them in an interview."
+}
